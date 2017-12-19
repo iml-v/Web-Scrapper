@@ -1,0 +1,13 @@
+This was originally written by IMLV and VIVONK in December 2017 .
+
+
+Contribute:
+
+Part of the reason I want this open sourced is because if the site makes a design change, the script for it should be modified.
+
+If you spot a design change (or something else) that makes the script unable to work for the given site - please fire an issue asap.
+
+If you are programmer PRs with fixes are warmly welcomed and acknowledged with a virtual beer ??
+
+Script available for:
+https://www.zoopla.co.uk/
