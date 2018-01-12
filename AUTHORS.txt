@@ -3,7 +3,7 @@ This was originally written by IMLV , VIVONK and Prabhat-IIT an in December 2017
 
 Contribute:
 
-Part of the reason I want this open sourced is because if the site makes a design change, the script for it should be modified.
+Main of the reason I want this open sourced is because if the site makes a design change, the script for it should be modified.
 
 If you spot a design change (or something else) that makes the script unable to work for the given site - please fire an issue asap.
 
